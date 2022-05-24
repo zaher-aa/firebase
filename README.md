@@ -1,2 +1,2 @@
 # Firebase-Authentication
-Article [this](https://blog.logrocket.com/user-authentication-firebase-react-apps/) article
+Based on [this](https://blog.logrocket.com/user-authentication-firebase-react-apps/) article
